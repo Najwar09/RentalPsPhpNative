@@ -224,7 +224,7 @@ $hasil = mysqli_query($connection,$query);
                             <h3 class="pricing"><?= $isi['harga']; ?><span class="small">/jam</span></h3>
                             <hr>
                             <ul class="features">
-                                <li>Gratis Ongkir</li>
+                                <li>Tidak Gratis Ongkir</li>
                                 <li>Sewa diatas 5 jam gratis 1 jam</li>
                                 <li>jaminan ktp</li>
                             </ul>
